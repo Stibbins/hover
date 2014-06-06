@@ -1,0 +1,31 @@
+#################
+## Unity
+#################
+
+Hoverboard/Library
+Hoverboard/Obj
+Hoverboard/Temp
+*.sln
+*.csproj
+*.suo
+*.userprefs
+*.unityproj
+*.dwlt
+#all form av läsbarhet eller självförklarade namnkonventioner
+
+#include these files
+#!*.meta
+
+#Hoverboard/Library/AssetServerCacheV3
+#Hoverboard/Library/*.dwlt
+#Hoverboard/Library/CompilationCompleted.txt
+#Hoverboard/Library/ScriptMapper
+#Hoverboard/Library/assetDatabase3
+#Hoverboard/Library/guidmapper
+#Hoverboard/Library/metadata/*
+#Hoverboard/Library/Scriptassemblies/*
+#Hoverboard/Library/expandedItems
+#Hoverboard/Hoverboard.sln
+#Hoverboard/Hoverboard-csharp.sln
+#Hoverboard/Assembly-CSharp-vs.csproj
+#Hoverboard/Assembly-CSharp.csproj
